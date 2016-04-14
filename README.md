@@ -17,6 +17,8 @@ $ geth --rpc --networkid=39318 --maxpeers=0 --datadir=~/.ethereum/DevChain/ --mi
 ```
 $ geth --rpc --networkid=39318 --maxpeers=0 --datadir=~/.ethereum/DevChain/  --minerthreads 1 --genesis genesis.json console
 ```
+1. Actually, this site had the BEST detailed line-by-line instructions on creating a testnet, mining on it, compiling a contract (the Greeter example), deploying it, and running it:
+http://ethereum.stackexchange.com/questions/2751/deploying-the-greeter-contract-via-the-geth-cli-is-not-registering-in-my-private
 
 ## Get Solidity
 1. https://solidity.readthedocs.org/en/latest/
