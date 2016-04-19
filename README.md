@@ -30,3 +30,9 @@ http://ethereum.stackexchange.com/questions/2751/deploying-the-greeter-contract-
 1. https://ethereum.org/greeter
 
 
+## Use Mist
+ 1. Found this site a useful overall explanation, and also good for getting going with Mist
+  * https://klmoney.wordpress.com/getting-started
+ 1. Seems like most of the examples on ethereum.org are using Mist anyway
+ 2. 
+ 
